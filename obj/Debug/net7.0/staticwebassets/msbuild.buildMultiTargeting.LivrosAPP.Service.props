@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LivrosAPP.Service.props" />
+</Project>

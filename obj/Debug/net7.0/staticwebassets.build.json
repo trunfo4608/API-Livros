@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "o5xF4hmlIQYXHbMX/xqd+VErcyXPBk8T3WOVootI+EE=",
+  "Source": "LivrosAPP.Service",
+  "BasePath": "_content/LivrosAPP.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
