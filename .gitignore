@@ -1,0 +1,49 @@
+# Diretórios do Visual Studio
+.vs/
+bin/
+obj/
+Debug/
+Release/
+
+# Configurações do usuário
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.log
+*.csproj.user
+
+# Dependências do NuGet
+packages/
+*.nupkg
+project.lock.json
+
+# Arquivos do Entity Framework
+Migrations/
+
+# Configurações de IDE e editor
+*.vscode/
+*.ide/
+*.tmp
+*.swp
+*.bak
+*.sln.cache
+
+# Arquivos do Resharper/Rider
+*.DotSettings.user
+_ReSharper.Caches/
+
+# Configuração de publish
+publish/
+app.publish/
+
+# Outros
+Thumbs.db
+Desktop.ini
